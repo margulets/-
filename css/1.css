@@ -1,0 +1,31 @@
+body {
+    background: url(/img/fon.jpeg) repeat-y 100%;
+}
+
+.blue { color: darkblue; }
+.sea  {
+    color: lightseagreen;
+    text-decoration: overline orange;
+}
+
+
+.center { text-align: center; }
+.right  { text-align: right; }
+
+
+.big   { font-size: 2rem; }
+.small { font-size: 0.8rem; }
+
+
+.bold { font-weight: bold; }
+
+
+table {
+    border-top: 10px solid darkcyan;
+    border-left: 5px dotted orange;
+    border-right: 5px dashed cyan;
+    border-bottom: 10px solid purple;
+}
+
+ol { list-style-type: lower-greek; }
+ul { list-style-type: square; }
